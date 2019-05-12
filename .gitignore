@@ -1,0 +1,7 @@
+*.obj
+*.exe
+*.dll
+*Debug
+laba 9\Debug
+laba 9\obj
+laba 9/obj/*
