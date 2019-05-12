@@ -2,6 +2,7 @@
 *.exe
 *.dll
 *Debug
-laba 9\Debug
-laba 9\obj
-laba 9/obj/*
+laba3\Debug
+laba3\obj
+laba3/obj/*
+.idea*
